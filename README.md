@@ -1,6 +1,6 @@
 # Diabetes Classification: Streamlit Model Lab
 
-A teaching app built with Streamlit, pandas, seaborn, and scikit-learn. Students can choose one classifier or compare four classifiers using cross-validation, inspect holdout test metrics, make a sample prediction, and save or reload a fitted pipeline.
+An app built with Streamlit, pandas, seaborn, and scikit-learn. Users can choose one classifier or compare four classifiers using cross-validation, inspect holdout test metrics, make a sample prediction, and save or reload a fitted pipeline.
 
 ## Project files
 
